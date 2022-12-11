@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91eb99d6.css",
+    "main.js": "/static/js/main.cb99b633.js",
+    "static/media/kevin-solbrig-pEuqq2MiwaU-unsplash.jpg": "/static/media/kevin-solbrig-pEuqq2MiwaU-unsplash.b2c194ae90e7d9c41af0.jpg",
+    "static/media/backgimg.avif": "/static/media/backgimg.7e5ec4fb783b940647be.avif",
+    "index.html": "/index.html",
+    "main.91eb99d6.css.map": "/static/css/main.91eb99d6.css.map",
+    "main.cb99b633.js.map": "/static/js/main.cb99b633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91eb99d6.css",
+    "static/js/main.cb99b633.js"
+  ]
+}
